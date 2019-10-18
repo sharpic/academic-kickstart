@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Professor of Computer Science
-role: Head of Post Graduate Research
 
 # Organizations/Affiliations
 organizations:
