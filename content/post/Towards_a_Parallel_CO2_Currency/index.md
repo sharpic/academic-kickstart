@@ -15,7 +15,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: `union-concerned-scientists-emissions-pie-chart.png`
+image: union-concerned-scientists-emissions-pie-chart.png
   caption: "Each Country's Share of CO2 Emissions - (c) Union of Concerned Scientists"
   focal_point: "Smart"
   preview_only: false
