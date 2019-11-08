@@ -16,9 +16,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: "union-concerned-scientists-emissions-pie-chart.png"
--  caption: "Each Country's Share of CO2 Emissions - (c) Union of Concerned Scientists"
--  focal_point: "Smart"
--  preview_only: false
+  caption: "Each Country's Share of CO2 Emissions - (c) Union of Concerned Scientists"
+  focal_point: "Smart"
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -26,7 +26,9 @@ image: "union-concerned-scientists-emissions-pie-chart.png"
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
+
 **TL;DR**
 
 1. **One size fits all is not going to work;**
