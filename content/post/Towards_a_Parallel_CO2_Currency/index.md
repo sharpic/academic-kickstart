@@ -11,14 +11,21 @@ date: 2019-11-06T09:05:26Z
 lastmod: 2019-11-06T09:05:26Z
 featured: true
 draft: false
+reading_time: true  # Show estimated reading time?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image: union-concerned-scientists-emissions-pie-chart.png
-#   caption: "Each Country's Share of CO2 Emissions - (c) Union of Concerned Scientists"
-#   focal_point: "Smart"
-#   preview_only: false
+image:
+   caption: "Photo by Li-An Lim on Unsplash"
+   focal_point: "Smart"
+   preview_only: false
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -28,8 +35,6 @@ draft: false
 projects: []
 
 ---
-
-**TL;DR**
 
 1. **One size fits all is not going to work;**
 2. **The most energy efficient thing you can do is have 1 child only;**
