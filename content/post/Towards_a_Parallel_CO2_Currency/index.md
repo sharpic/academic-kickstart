@@ -5,7 +5,7 @@ title: "Towards a Parallel CO2 Currency"
 subtitle: ""
 summary: ""
 authors: [Simon Harper]
-tags: [climate]
+tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Personal Reflection", "Climate"]
 categories: []
 date: 2019-11-06T09:05:26Z
 lastmod: 2019-11-06T09:05:26Z
