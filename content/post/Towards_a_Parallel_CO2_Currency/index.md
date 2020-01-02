@@ -77,3 +77,8 @@ For consumer products then we have sentinel products for which we have known CO2
 That said it seems obvious that buying something that will last a long time spreads its carbon load over the years, whether you decide to ‘pay’ for its cost all in one go at the time you buy it, or spread over its lifetime, the longer use the better it is. Likewise for food, buying food that keeps, means you have more flexibility in when that food is consumed and are less likely to throw fresh but uneaten food away - contributing to the 33% extra added to each dietary group.
 
 So with this in mind I'm formulating a plan to reduce my Carbon footprint - and I'd suggest that if you're serious about the climate crisis then this might be a first step for you.
+
+---
+
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@li_anlim?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Li-An Lim"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Photo Credit: Li-An Lim</span></a
+
