@@ -32,6 +32,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
+---
+
 Everything up to 400km is probably better travelled on the surface as much as possible excluding CO2 consuming motorised transport. Everything above 400km travelled by air travel. Air-travel has had a ‘bad-rap’ but this has forced it to clean up and become more efficient. Budget airlines are often more efficient as they ‘pack’ more people on board and often have newer or upgraded aircraft
 
 ---
