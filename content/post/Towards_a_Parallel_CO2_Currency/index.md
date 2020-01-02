@@ -36,7 +36,7 @@ projects: []
 
 ---
 
-**One size fits all is not going to work. The most energy efficient thing you can do is have one child only. Population has a massive effect on the allowable CO2 personal allowances; as does the diet you eat. New things cost CO2 in production which needs to be spread over their ‘lifetime’.**
+**In Summary: One size fits all is not going to work. The most energy efficient thing you can do is have one child only. Population has a massive effect on the allowable CO2 personal allowances; as does the diet you eat. New things cost CO2 in production which needs to be spread over their ‘lifetime’.**
 
 ---
 
