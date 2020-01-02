@@ -10,7 +10,7 @@ categories: []
 date: 2020-01-02T09:03:06Z
 lastmod: 2020-01-02T09:03:06Z
 featured: false
-draft: true
+draft: false
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
