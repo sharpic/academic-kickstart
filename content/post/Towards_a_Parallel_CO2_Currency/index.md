@@ -71,7 +71,9 @@ For consumer products then we have sentinel products for which we have known CO2
 
 That said it seems obvious that buying something that will last a long time spreads its carbon load over the years, whether you decide to ‘pay’ for its cost all in one go at the time you buy it, or spread over its lifetime, the longer use the better it is. Likewise for food, buying food that keeps, means you have more flexibility in when that food is consumed and are less likely to throw fresh but uneaten food away - contributing to the 33% extra added to each dietary group.
 
-So with this in mind I'm formulating a plan to reduce my Carbon footprint - and I'd suggest that if you're serious about the climate crisis then this might be a first step for you.
+{{% alert note %}}
+So with this in mind I'm formulating a plan to reduce my Carbon footprint to 6 tonnes and from there try and follow the personal allowances as they progress year on year. What's more, I'd suggest that if you're serious about the climate crisis then this might be a good first step for you too.
+{{% /alert %}}
 
 ---
 

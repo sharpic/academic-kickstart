@@ -151,22 +151,20 @@ Secondly, the carrier is significant. Counter to my initial beliefs the budget a
 
 > ‘MSCI ranked Ryanair as the lowest-emissions-intensity airline in its ACWI index with 75 g CO2-e/revenue passenger kilometre in 2014 – below Easyjet at 82 g, the average at 123 g and Lufthansa at 132 g – by using high-density 189-seat Boeing 737-800s. In 2015 Ryanair emitted 8.64 Bn t of CO2 for 545,034 sectors flown: 15.85 t per 776 mi (674 nmi; 1,249 km) average sector (or 5.04 t of fuel: 4.04 kg/km) representing 95 kg per 90.6 million passengers (30.4 kg of fuel: 3.04 L/100 km or 76 g CO2/km).’ [Ryanair Annual Report 2015](https://investor.ryanair.com/wp-content/uploads/2016/07/Ryanair-Annual-Report-FY16.pdf).
 
-In real terms this means that [Ryanair announced July 2019 figures of 67g of CO2 per pax](https://corporate.ryanair.com/news/ryanair-becomes-first-eu-airline-to-report-monthly-co2-emissions/)[^1][/km](https://corporate.ryanair.com/news/ryanair-becomes-first-eu-airline-to-report-monthly-co2-emissions/). Their [environmental policy document](https://corporate.ryanair.com/wp-content/uploads/2018/03/Enviromental-Policy-Doc.pdf) might be useful when considering who to fly with but [Brighter Planet’s:  Air travel carbon and energy efficiency report](http://static.brighterplanet.com/science/publications/aviation/aviation.pdf) gives a really nice breakdown from page 17.
+In real terms this means that [Ryanair announced July 2019 figures of 67g of CO2 per pax](https://corporate.ryanair.com/news/ryanair-becomes-first-eu-airline-to-report-monthly-co2-emissions/)[/km](https://corporate.ryanair.com/news/ryanair-becomes-first-eu-airline-to-report-monthly-co2-emissions/) (pax meaning 'Persons Approximately'). Their [environmental policy document](https://corporate.ryanair.com/wp-content/uploads/2018/03/Enviromental-Policy-Doc.pdf) might be useful when considering who to fly with but [Brighter Planet’s:  Air travel carbon and energy efficiency report](http://static.brighterplanet.com/science/publications/aviation/aviation.pdf) gives a really nice breakdown from page 17.
 
 
 {{% alert note %}}
 So what does all this mean for me (and maybe you)?
 
-(1) I’ll continue to monitor and try and reduce my CO2 usage in my day to day travels; 
-(2) I’ll measure this via car-miles being cautious and assuming I am the only one in the car even if I am transporting more than myself; 
-(3) I’ll try and follow my advice in LIST 1; but, 
+(1) I’ll continue to monitor and try and reduce my CO2 usage in my day to day travels;
+
+(2) I’ll measure this via car-miles being cautious and assuming I am the only one in the car even if I am transporting more than myself;
+
+(3) I’ll try and follow my advice in LIST 1; but,
+
 (4) I’ll still take air travel trying to find the most efficient carrier and routes. I’ll include all personal flights, and for work (where I have the choice to attend or not) I’ll separate this out so that I can see how I might start to reduce this figure. If my employers send me on a trip that I don’t arrange then it’s on their CO2 budget. 
 {{% /alert %}}
-
-## Notes
-
-[^1]: Persons Approximately
-
 
 ---
 
