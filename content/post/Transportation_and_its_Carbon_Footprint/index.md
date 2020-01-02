@@ -43,6 +43,7 @@ From my previous post you’ll notice that I only touched on transport. This is 
 In general I’d suggest ([based on the UK National Travel Survey](https://www.gov.uk/government/statistics/national-travel-survey-2016)) that journeys less than 1km walk, run, or cycle where possible. For 1km to 3km run or cycle, bus or tram, 2km to 5km some form of electric personal transport, bus or tram, or cycle. 5km is a boundary I think because it represents a distance most people can travel without motorised aid. After this we get into motorcycle, scooter, car, bus, tram, train territory with an average UK commute of 14.4km (9 miles) each way. Unless you are very close to a tram, train, or bus route this means personal motorised vehicle upto [25 miles (pg8)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/674568/analysis-from-the-national-travel-survey.pdf?_ga=2.205806995.1612250571.1566729501-1748835562.1566729501). Then looking at the data we skip up to 25 miles to less than 50 representing only 25 trips per person per year. Trips 50 miles and upwards are very rare it seems of the [average 774 trips per year](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/632913/nts-infographic-2016.pdf?_ga=2.36510624.1612250571.1566729501-1748835562.1566729501).
 
 **LIST 1:** So for the average person I’d say:
+
 *   self powered or electric assist up to 5km
 *   self powered or electric assist and public transport (or some combination thereof) up to 15km
 *   Train, metro, tram, light commuter railway (if available) and motorised transport (car etc) up to 40km (25 miles)
@@ -154,14 +155,18 @@ In real terms this means that [Ryanair announced July 2019 figures of 67g of CO2
 
 
 {{% alert note %}}
-So what does all this mean for me (and maybe you)? (1) I’ll continue to monitor and try and reduce my CO2 usage in my day to day travels; (2) I’ll measure this via car-miles being ‘conservative[^2]’ and assuming I am the only one in the car even if I am transporting more than myself; (3) I’ll try and follow my advice in LIST 1; but, (4) I’ll still take air travel trying to find the most efficient carrier and routes. I’ll include all personal flights, and for work (where I have the choice to attend or not) I’ll separate this out so that I can see how I might start to reduce this figure. If my employers send me on a trip that I don’t arrange then it’s on their CO2 budget. 
+So what does all this mean for me (and maybe you)?
+
+(1) I’ll continue to monitor and try and reduce my CO2 usage in my day to day travels; 
+(2) I’ll measure this via car-miles being cautious and assuming I am the only one in the car even if I am transporting more than myself; 
+(3) I’ll try and follow my advice in LIST 1; but, 
+(4) I’ll still take air travel trying to find the most efficient carrier and routes. I’ll include all personal flights, and for work (where I have the choice to attend or not) I’ll separate this out so that I can see how I might start to reduce this figure. If my employers send me on a trip that I don’t arrange then it’s on their CO2 budget. 
 {{% /alert %}}
 
 ## Notes
 
 [^1]: Persons Approximately
 
-[^2]: (of an estimate) purposely low for the sake of caution. "police placed the value of the haul at a conservative £500,000". Synonyms: low, cautious, understated, unexaggerated, moderate, reasonable "a conservative estimate".
 
 ---
 
