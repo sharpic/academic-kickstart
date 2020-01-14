@@ -6,7 +6,7 @@ subtitle: ""
 summary: "One size fits all is not going to work; The most energy efficient thing you can do is have one child only; Population has a massive effect on the allowable CO2 personal allowances; As does the diet you eat; and New things cost CO2 in production which needs to be spread over their ‘lifetime’"
 authors: [Simon Harper]
 tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Personal Reflection", "Climate"]
-categories: []
+categories: ["Less"]
 date: 2019-11-06T09:05:26Z
 lastmod: 2019-11-06T09:05:26Z
 featured: true
@@ -32,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["the-bedtime-projects"]
 
 ---
 

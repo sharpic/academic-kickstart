@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Everything up to 400km is probably better travelled on the surface as much as possible excluding CO2 consuming motorised transport. Everything above 400km travelled by air travel. Air-travel has had a ‘bad-rap’ but this has forced it to clean up and become more efficient. Budget airlines are often more efficient as they ‘pack’ more people on board and often have newer or upgraded aircraft."
 authors: [Simon Harper]
 tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Travel", "Transport"]
-categories: []
+categories: ["Less"]
 date: 2020-01-02T09:03:06Z
 lastmod: 2020-01-02T09:03:06Z
 featured: true
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["the-bedtime-projects"]
 
 ---
 

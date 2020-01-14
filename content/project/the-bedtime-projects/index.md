@@ -5,7 +5,7 @@ title: "The Bedtime Projects"
 summary: "The bedtime projects are those thoughts and ideas that come to us before our brain switches off for sleep."
 authors: [Simon Harper]
 tags: []
-categories: ["Less"]
+categories: []
 date: 2020-01-14T15:22:27Z
 
 # Optional external URL for project (replaces project detail page).

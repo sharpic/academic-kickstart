@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Retrospective_2019_CO2_Audit"
+title: "Retrospective 2019 CO2 Audit"
 subtitle: ""
 summary: "I consumed 4.613 tonnes of CO2 which is the target amount for 2020; and, I think I need to set my 2020 target to 3.5 tonnes."
 authors: [Simon Harper]
 tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Travel", "Transport"]
-categories: ["Less"]
+pcategories: ["Less"]
 date: 2020-01-14T15:18:05Z
 lastmod: 2020-01-14T15:18:05Z
 featured: true
@@ -21,7 +21,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by Andrea Vincenzo Abbondanza on Unsplash"
+  caption: "Photo by Stephen Dawson on Unsplash"
   focal_point: "Smart"
   preview_only: false
 
