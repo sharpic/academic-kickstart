@@ -7,6 +7,10 @@ authors: [Simon Harper]
 tags: []
 categories: []
 date: 2020-01-14T15:22:27Z
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -42,7 +42,7 @@ So let's summarise 2019 and plan for 2020...
 
 I have zero production costs for Housing (over 50 years old), Car (over 11 years old), Cycle (over 10 years old). Further, as part of this focus we have changed our energy supplier to ‘[Bulb](https://bulb.co.uk)’ energy:
 
-‘Bulb is the UK's biggest green energy supplier. We provide all our members with 100% renewable electricity. For every unit you use, we make sure a unit is produced and put on the grid by a renewable source including solar, wind and hydro. Plus, our gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste. And we offset the rest of the gas we supply by supporting carbon reduction projects around the world.’ 
+> ‘Bulb is the UK's biggest green energy supplier. We provide all our members with 100% renewable electricity. For every unit you use, we make sure a unit is produced and put on the grid by a renewable source including solar, wind and hydro. Plus, our gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste. And we offset the rest of the gas we supply by supporting carbon reduction projects around the world.’ 
 
 And so we have no CO2 footprint for energy in the house.
 
@@ -234,7 +234,7 @@ So this means that my 2019 consumption is tonnes of CO2 4.613 tonnes of CO2. The
 {{% alert warning %}}
 ## A Return Trip to Spain
 
-Just as a comparison I thought I'd look at longer journeys, in thsi case to the south of Spain.
+Just as a comparison I thought I'd look at longer journeys, in this case to the south of Spain.
 
 By **Air** is 3600km return, costs 270kg of Carbon, costs ~£50 and takes 3 hours.
 
