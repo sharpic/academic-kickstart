@@ -245,5 +245,5 @@ By **Train** is 5200km return, costs ~210kg of Carbon (carbonfootprint.com), cos
 
 ---
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Retrospective 2019 CO2 Audit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/retrospective_2019_co2_audit/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and was originally published at:<br />https://www.sharpic.eu/post/retrospective_2019_co2_audit/.
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Retrospective 2019 CO2 Audit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/retrospective_2019_co2_audit/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and was originally published at: https://www.sharpic.eu/post/retrospective_2019_co2_audit/.
 

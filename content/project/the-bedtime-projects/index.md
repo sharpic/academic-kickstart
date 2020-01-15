@@ -49,5 +49,5 @@ These ideas are never going to become anything more than thought pieces written 
 
 ## <a href="/categories/less" title="Less Projects">Less</a> 
 
-It's become obvious that to address climate change and the spiralling economic disconnects a lot of us are going to have to have less, build less, and want less. The key phrase here is 'want less' if we don't want less then we will never achieve systemic 'sticky' changes. Safe to say that we need to make 'less' a virture -- I really think this is coming. We need to want less but better - things that let us reduce, by adding quality. <a href="/categories/less" title="Less Projects">'Less' is just a category that allows me to group my thik about how I personally might go about this</a>.
+It's become obvious that to address climate change and our worlds spiralling economic disconnects a lot of us are going to have to have less, build less, and want less. The key phrase here is 'want less' if we don't want less then we will never achieve systemic 'sticky' changes. Safe to say that we need to make 'less' a virture -- I really think this is coming. We need to want less but better -- things that let us reduce, by adding quality. <a href="/categories/less" title="Less Projects">'Less' is just a category that allows me to group my thinking about how I personally might go about this</a>.
 
