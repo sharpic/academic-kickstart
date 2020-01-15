@@ -41,7 +41,16 @@ slides: ""
 
 ---
 
-The bedtime projects are those thoughts and ideas that come to us before our brain switches off for sleep. For me in that first hour, all of the unconscious craziness that I've been suppressing that day starts to make its way to the surface and ends up as a swirl of incoherent thoughts that if I'm lucky slowly coalesce into something meaningful (to me at least anyhow). These ideas are never going to become anything more than thought pieces written as a story here and maybe catalyst's that I might use to change the way I do things, but they are not going to be tangible projects or anything you can really "touch".
+The bedtime projects are those thoughts and ideas that come to us before our brain switches off for sleep. For me in that first hour, all of the unconscious craziness that I've been suppressing that day starts to make its way to the surface and ends up as a swirl of incoherent thoughts that if I'm lucky slowly coalesce into something meaningful (to me at least anyhow).
+
+These ideas are never going to become anything more than thought pieces written as a story here and maybe catalyst's that I might use to change the way I do things, but they are not going to be tangible projects or anything you can really "touch".
+
+---
+
+## <a href="catagories/less" title="Less Projects">Less</a> 
+
+Something about Less
+
 
 ---
 

@@ -6,7 +6,7 @@ subtitle: ""
 summary: "I consumed 4.613 tonnes of CO2 which is the target amount for 2020; and, I think I need to set my 2020 target to 3.5 tonnes."
 authors: [Simon Harper]
 tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Travel", "Transport"]
-pcategories: ["Less"]
+categories: ["Less"]
 date: 2020-01-14T15:18:05Z
 lastmod: 2020-01-14T15:18:05Z
 featured: true
@@ -230,10 +230,12 @@ Personal Carbon
 
 ## The Plan
 
-So this means that my 2019 consumption is tonnes of CO2 4.613 tonnes of CO2. The current amount a UK citizen consumes is [6 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html) per year with a world average of 4 tonnes per year; there are big error bars on this as the variance runs from 2 tonnes to [15 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html). You can see the [history laid bare by country](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita) at wikipedia. Now we can also see the [personal targets we should be aiming for](http://shrinkthatfootprint.com/carbon-targets-for-your-footprint) and that I need to be at 3.3 tonnes by 2030 and 2.3 by 2040. So the first target is loose 1.3 tonnes in 10 years but let’s try to get to this faster and I’m going to try and do this by reducing my car travel (by half) and my food waste (to 25%).
+So this means that my 2019 consumption is tonnes of CO2 4.613 tonnes of CO2. The current amount a UK citizen consumes is [6 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html) per year with a world average of 4 tonnes per year; there are big error bars on this as the variance runs from 2 tonnes to [15 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html). You can see the [history laid bare by country](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita) at wikipedia. Now we can also see the [personal targets we should be aiming for](http://shrinkthatfootprint.com/carbon-targets-for-your-footprint) and that I need to be at 3.3 tonnes by 2030 and 2.3 by 2040. So the first target is lose 1.3 tonnes in 10 years but let’s try to get to this faster. For 2020 I’m going to try and do this by reducing my car travel (by half) and my food waste (to 25%).
 
 {{% alert warning %}}
 ## A Return Trip to Spain
+
+Just as a comparison I thought I'd look at longer journeys, in thsi case to the south of Spain.
 
 By **Air** is 3600km return, costs 270kg of Carbon, costs ~£50 and takes 3 hours.
 
@@ -244,7 +246,7 @@ By **Train** is 5200km return, costs ~210kg of Carbon (carbonfootprint.com), cos
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Retrospective 2019 CO2 Audit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/retrospective_2019_co2_audit/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<div><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Retrospective 2019 CO2 Audit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/retrospective_2019_co2_audit/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
 
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@srd844?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Stephen Dawson"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Stephen Dawson</span></a>
 
