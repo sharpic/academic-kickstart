@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Accurate Prediction of Glucose Absorption from Food"
-subtitle: "Funded PhD Available In:"
+title: "Funded PhD Available In: Accurate Prediction of Glucose Absorption from Food"
+subtitle: "Available"
 summary: "You will investigate how we might understand the importance of ingredients; portion size, weight, and composition; carbohydrate estimation and approximation; and absorption."
 authors: []
-tags: []
-categories: []
+tags: ["Type 1 Diabetes", "Diabetes", "Nutrition", "PhD", "Computer Science"]
+categories: ["PhD Advert"]
 date: 2020-01-16T15:18:44Z
 lastmod: 2020-01-16T15:18:44Z
 featured: false
