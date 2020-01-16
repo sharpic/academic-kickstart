@@ -137,7 +137,7 @@ So on this basis for 2019
 <code>0.140</code></p>
 
    </td>
-   <td>I’ve no clue but I’m have limited clothes (my wife would say very limited) so let’s take the UK average of 140kg pa.
+   <td>I’ve no clue, but I have limited clothes (my wife would say very limited) so let’s take the UK average of 140kg pa.
    </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ So on this basis for 2019
 <code>0.000</code></p>
 
    </td>
-   <td>No clue to this year (I didn’t keep a record)
+   <td>No clue for this year (I didn’t keep a record)
    </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ So on this basis for 2019
 <code>0.000</code></p>
 
    </td>
-   <td>No clue to this year (I didn’t keep a record)
+   <td>No clue for this year (I didn’t keep a record)
    </td>
   </tr>
   <tr>
@@ -229,7 +229,7 @@ Personal Carbon
 
 ## The Plan
 
-So this means that my 2019 consumption is tonnes of CO2 4.613 tonnes of CO2. The current amount a UK citizen consumes is [6 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html) per year with a world average of 4 tonnes per year; there are big error bars on this as the variance runs from 2 tonnes to [15 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html). You can see the [history laid bare by country](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita) at wikipedia. Now we can also see the [personal targets we should be aiming for](http://shrinkthatfootprint.com/carbon-targets-for-your-footprint) and that I need to be at 3.3 tonnes by 2030 and 2.3 by 2040. So the first target is lose 1.3 tonnes in 10 years but let’s try to get to this faster. For 2020 I’m going to try and do this by reducing my car travel (by half) and my food waste (to 25%).
+So this means that my 2019 consumption is 4.613 tonnes of CO2. The current amount a UK citizen consumes is [6 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html) per year with a world average of 4 tonnes per year; there are big error bars on this as the variance runs from 2 tonnes to [15 tonnes](https://www.ucsusa.org/global-warming/science-and-impacts/science/each-countrys-share-of-co2.html). You can see the [history laid bare by country](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita) at wikipedia. Now we can also see the [personal targets we should be aiming for](http://shrinkthatfootprint.com/carbon-targets-for-your-footprint) and that I need to be at 3.3 tonnes by 2030 and 2.3 by 2040. So the first target is lose 1.3 tonnes in 10 years but let’s try to get to this faster. For 2020 I’m going to try and do this by reducing my car travel (by half) and my food waste (to 25%).
 
 {{% alert warning %}}
 ## A Return Trip to Spain
