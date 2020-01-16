@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Accurate Prediction of Glucose Absorption From Food"
-subtitle: ""
+title: "Accurate Prediction of Glucose Absorption from Food"
+subtitle: "Funded PhD Available In:"
 summary: "You will investigate how we might understand the importance of ingredients; portion size, weight, and composition; carbohydrate estimation and approximation; and absorption."
 authors: []
 tags: []
