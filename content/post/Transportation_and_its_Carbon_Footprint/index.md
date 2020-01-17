@@ -9,7 +9,7 @@ tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Travel", "
 categories: ["Less"]
 date: 2020-01-02T09:03:06Z
 lastmod: 2020-01-02T09:03:06Z
-featured: true
+featured: false
 draft: false
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?

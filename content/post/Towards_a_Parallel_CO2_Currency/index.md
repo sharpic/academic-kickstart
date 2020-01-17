@@ -9,7 +9,7 @@ tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Personal R
 categories: ["Less"]
 date: 2019-11-06T09:05:26Z
 lastmod: 2019-11-06T09:05:26Z
-featured: true
+featured: false
 draft: false
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?

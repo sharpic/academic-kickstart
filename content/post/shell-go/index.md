@@ -34,7 +34,7 @@ projects: ["the-bedtime-projects"]
 
 ---
 
-**In Summary: It’s better not to use the carbon. But, if you are going to use the carbon then it’s better to use as little as possible; and, offset what you do use. What Shell GO+ is giving us is thinking room and acting room, because sequestration gives us time to make changes. **
+**In Summary: It’s better not to use the carbon. But, if you are going to use the carbon then it’s better to use as little as possible; and, offset what you do use. What Shell GO+ is giving us is thinking room and acting room, because sequestration gives us time to make changes.**
 
 ---
 
@@ -65,3 +65,7 @@ Finally, and most importantly, offsetting -- by sequestration -- is often not te
 We must also realise that  the world's governments are not coming to save us by reforestation on the public ‘dime’, so it seems at present if we want it we need to buy it. And at a 46% loss, there are a lot of trees to be bought.
 
 What Shell GO+ is giving us is thinking room and acting room. Sequestration gives us time to make the change. And as we know change is hard because it grates against current ‘norms’ and expectations, the more generations we have to change these expectations means the easier it will be for these new generations to make even larger carbon emission cuts.
+
+---
+
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Shell GO+, Offsetting and Sequestration</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/shell-go/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and was originally published at: https://www.sharpic.eu/post/shell-go/.
