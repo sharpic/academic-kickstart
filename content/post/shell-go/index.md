@@ -7,8 +7,8 @@ summary: "It’s better not to use the carbon. But, if you are going to use the 
 authors: [Simon Harper]
 tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Shell", "Transport"]
 categories: ["Less"]
-date: 2020-01-14T15:18:05Z
-lastmod: 2020-01-14T15:18:05Z
+date: 2020-01-17T17:18:05Z
+lastmod: 2020-01-17T17:25:05Z
 featured: true
 draft: false
 reading_time: true  # Show estimated reading time?
