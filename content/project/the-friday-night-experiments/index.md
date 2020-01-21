@@ -57,7 +57,9 @@ One Friday, the two scientists removed some flakes from a lump of bulk graphite 
 
 This playful approach is fundamental to how both Andre and Kostya work. It is seen as both a useful way of maintaining interest as well as a means of generating new ideas.
 
+
 ---
+
 
 ## <a href="http://beelife.cs.manchester.ac.uk" title="BeeLife">BeeLife</a> 
 

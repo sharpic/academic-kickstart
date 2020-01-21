@@ -5,7 +5,7 @@ title: "Shell GO+, Offsetting and Sequestration"
 subtitle: ""
 summary: "It’s better not to use the carbon. But, if you are going to use the carbon then it’s better to use as little as possible; and, offset what you do use. What Shell GO+ is giving us is thinking room and acting room, because sequestration gives us time to make changes."
 authors: [Simon Harper]
-tags: ["CO2 Emissions", "Climate Change", "Personal Responsibility", "Shell", "Transport"]
+tags: ["CO2 Emissions", "Climate Change", "Carbon Sequestration", "Shell", "Carbon Offsetting"]
 categories: ["Less"]
 date: 2020-01-17T17:18:05Z
 lastmod: 2020-01-17T17:25:05Z
@@ -34,7 +34,7 @@ projects: ["the-bedtime-projects"]
 
 ---
 
-**In Summary: It’s better not to use the carbon. But, if you are going to use the carbon then it’s better to use as little as possible; and, offset what you do use. What Shell GO+ is giving us is thinking room and acting room, because sequestration gives us time to make changes.**
+**It’s better not to use the carbon. But, if you are going to use the carbon then it’s better to use as little as possible; and, offset what you do use. What Shell GO+ is giving us is thinking room and acting room, because sequestration gives us time to make changes.**
 
 ---
 
