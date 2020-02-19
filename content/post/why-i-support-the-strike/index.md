@@ -33,11 +33,9 @@ image:
 projects: []
 ---
 
-I don't want to strike! It hurts my students, it hurts the University I love, and it hurts me financially
+I don't want to strike! It hurts my students, it hurts the University I love, and it hurts me financially[^1}; but sometimes we are left with no choice. 
 
-[^]: My pay is deducted for every day I'm on strike.
-
-; but sometimes we are left with no choice. 
+[^1]: My pay is deducted for every day I'm on Strike.
 
 I'm striking for a fair pension and for fair and equal pay (for my younger colleagues). The great thing about working at a University is that you get to affect students lives by helping with their education, and you get to the freedom to pursue research that you think is important.  The down side is that you don't get paid very well. 
 
