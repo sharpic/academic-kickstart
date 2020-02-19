@@ -37,7 +37,7 @@ I don't want to strike! It hurts my students, it hurts the University I love, an
 
 [^1]: My pay is deducted for every day I'm on Strike.
 
-I'm striking for a fair pension and for fair and equal pay (for my younger colleagues). The great thing about working at a University is that you get to affect students lives by helping with their education, and you get to the freedom to pursue research that you think is important.  The down side is that you don't get paid very well. 
+I'm striking for a fair pension and for fair and equal pay (for my younger colleagues). The great thing about working at a University is that you get to affect students lives by helping with their education, and you get the freedom to pursue research that you think is important.  The down side is that you don't get paid very well. 
 
 {{% alert note %}}I've third year students who graduate to a job with a salary much higher than mine, and I'm at a first class academic institution!
 
