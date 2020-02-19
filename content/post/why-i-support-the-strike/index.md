@@ -3,7 +3,7 @@
 
 title: "Why I Support the UCU Strike"
 subtitle: ""
-summary: ""
+summary: "I don’t want to strike! It hurts my students, it hurts the University I love, and it hurts me financially; but sometimes we are left with no choice."
 authors: [Simon Harper]
 tags: []
 categories: []
@@ -33,7 +33,11 @@ image:
 projects: []
 ---
 
-I don't want to strike! It hurts my students, it hurts the University I love, and it hurts me financially (my pay is deducted for every day I'm on strike); but sometimes we are left with no choice. 
+I don't want to strike! It hurts my students, it hurts the University I love, and it hurts me financially
+
+[^]: My pay is deducted for every day I'm on strike.
+
+; but sometimes we are left with no choice. 
 
 I'm striking for a fair pension and for fair and equal pay (for my younger colleagues). The great thing about working at a University is that you get to affect students lives by helping with their education, and you get to the freedom to pursue research that you think is important.  The down side is that you don't get paid very well. 
 
@@ -45,7 +49,13 @@ Part of my pay deal was a good pension and I've been relying on this to retire a
 
 This next round of pension changes will mean further reductions in benefits and higher costs in putting money into the scheme. **It can't go on unchallenged.** 
 
-So if you're a Manchester Student please **[email Nancy & Patrick](mailto:president@manchester.ac.uk,[patrick.hackett-REGISTRAR@manchester.ac.uk](mailto:patrick.hackett-REGISTRAR@manchester.ac.uk)?[BCC=campaigns@ucu.org.uk](mailto:BCC=campaigns@ucu.org.uk)&Subject=Support%20for%20the%20Pension%20and%204%20fights%20strikes&body=I%20am%20a%20current%20student%20at%20the%20University%20of%20Manchester.%0A%0AI%20am%20writing%20in%20support%20of%20the%20academic%20and%20professional%20staff%20who%20are%20striking%20for%20their%20pensions%2C%20pay%2C%20equality%2C%20casualisation%2C%20and%20workload.%20Things%20have%20gotten%20to%20a%20dire%20state%20for%20employees%20of%20the%20university%20which%20are%20the%20heart%20of%20the%20value%20of%20any%20universities.%0A%0ASincerely%2C%0A)** to voice your concern, and if you are academic or academic related staff or are a PhD student [join the UCU](https://www.ucu.org.uk/) (it's free for students).
+{{% alert warning %}}
+
+### How to Help
+
+So if you're a Manchester Student please **[email Nancy & Patrick](mailto:president@manchester.ac.uk,patrick.hackett-REGISTRAR@manchester.ac.uk?BCC=campaigns@ucu.org.uk&Subject=Support%20for%20the%20Pension%20and%204%20fights%20strikes&body=I%20am%20a%20current%20student%20at%20the%20University%20of%20Manchester.%0A%0AI%20am%20writing%20in%20support%20of%20the%20academic%20and%20professional%20staff%20who%20are%20striking%20for%20their%20pensions%2C%20pay%2C%20equality%2C%20casualisation%2C%20and%20workload.%20Things%20have%20gotten%20to%20a%20dire%20state%20for%20employees%20of%20the%20university%20which%20are%20the%20heart%20of%20the%20value%20of%20any%20universities.%0A%0ASincerely%2C%0A)** to voice your concern, and if you are academic or academic related staff or are a PhD student [join the UCU](https://www.ucu.org.uk/) (it's free for students).
+
+{{% /alert %}}
 
 ---
 
