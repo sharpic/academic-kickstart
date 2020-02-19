@@ -33,7 +33,7 @@ image:
 projects: []
 ---
 
-I don't want to strike! It hurts my students, it hurts the University I love, and it hurts me financially[^1}; but sometimes we are left with no choice. 
+I don't want to strike! It hurts my students, it hurts the University I love, and it hurts me financially[^1]; but sometimes we are left with no choice. 
 
 [^1]: My pay is deducted for every day I'm on Strike.
 
