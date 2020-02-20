@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Why I Support the UCU Strike"
-subtitle: .GitInfo.AbbreviatedHash
+subtitle: ""
 summary: "I don’t want to strike! It hurts my students, it hurts the University I love, and it hurts me financially; but sometimes we are left with no choice."
 authors: [Simon Harper]
 tags: []
