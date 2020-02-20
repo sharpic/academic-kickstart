@@ -59,5 +59,16 @@ Also see [Bijan's](https://bparsia.wordpress.com/2020/02/19/why-i-support-the-fe
 
 ---
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">**Why I Support the UCU Strike**</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/towards_a_parallel_co2_currency/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and was originally published at: [https://www.sharpic.eu/post/why-i-support-the-strike/](https://www.sharpic.eu/post/why-i-support-the-strike/). {{.GitInfo.AbbreviatedHash}}
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">**Why I Support the UCU Strike**</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.sharpic.eu/post/towards_a_parallel_co2_currency/" property="cc:attributionName" rel="cc:attributionURL">Simon Harper</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and was originally published at: [https://www.sharpic.eu/post/why-i-support-the-strike/](https://www.sharpic.eu/post/why-i-support-the-strike/). {{ .GitInfo.AbbreviatedHash }}
 
+{{ with .GitInfo.AbbreviatedHash }}
+
+
+
+{{ with .GitInfo.AbbreviatedHash }}
+{{ . }}
+{{ end }}
+
+{{ with .GitInfo }}
+{{ .AbbreviatedHash }}
+{{ end }}
