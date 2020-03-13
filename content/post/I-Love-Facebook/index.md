@@ -21,7 +21,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by <a href="https://unsplash.com/@timbennettcreative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Bennett</a> on Unsplash"
+  caption: "Photo by Tim Bennett on Unsplash"
   focal_point: "Smart"
   preview_only: false
 
