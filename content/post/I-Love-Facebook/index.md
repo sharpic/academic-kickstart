@@ -34,7 +34,7 @@ projects: ["the-bedtime-projects"]
 
 ---
 
-**I challenge you to remove the Facebook App for a month just to see how you feel about losing Facebook or social media from your mobile. You will notice that your head is out of your mobile device more often, that you are more engaged with the people around you, and your environment in general, and that you are more likely to be able to have interesting thoughts and ideas while sitting - supposedly bored - in a coffee shop. **
+**I challenge you to remove the Facebook App for a month just to see how you feel about losing Facebook or social media from your mobile. You will notice that your head is out of your mobile device more often, that you are more engaged with the people around you, and your environment in general, and that you are more likely to be able to have interesting thoughts and ideas while sitting - supposedly bored - in a coffee shop.**
 
 ---
 
