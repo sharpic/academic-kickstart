@@ -1,0 +1,13 @@
+---
+title: "Scanpath trend analysis on web pages: Clustering eye tracking scanpaths"
+date: 2016-01-01
+publishDate: 2020-04-22T15:14:20.145399Z
+authors: ["S. Eraslan", "Y. Yesilada", "S. Harper"]
+publication_types: ["2"]
+abstract: "© 2016 ACM. Eye tracking studies have widely been used in improving the design and usability of web pages and in the research of understanding how users navigate them. However, there is limited research in clustering users' eye movement sequences (i.e., scanpaths) on web pages to identify a general direction they follow. Existing research tends to be reductionist, which means that the resulting path is so short that it is not useful. Moreover, there is little work on correlating users' scanpaths with visual elements of web pages and the underlying source code, which means the result cannot be used for further processing. In order to address these limitations, we introduce a new concept in clustering scanpaths called Scanpath Trend Analysis (STA) that not only considers the visual elements visited by all users, but also considers the visual elements visited by the majority in any order. We present an algorithm which automatically does this trend analysis to identify a trending scanpath for multiple web users in terms of visual elements of a web page. In contrast to existing research, the STA algorithm first analyzes the most visited visual elements in given scanpaths, clusters the scanpaths by arranging these visual elements based on their overall positions in the individual scanpaths, and then constructs a trending scanpath in terms of these visual elements. This algorithm was experimentally evaluated by an eye tracking study on six web pages for two different kinds of tasks (12 cases in total). Our experimental results show that the STA algorithm generates a trending scanpath that addresses the reductionist problem of existing work by preventing the loss of commonly visited visual elements for all cases. Based on the statistical tests, the STA algorithm also generates a trending scanpath that is significantly more similar to the inputted scanpaths compared to other existing work in 10 out of 12 cases. In the remaining cases, the STA algorithm still performs significantly better than some other existing work. This algorithm contributes to behavior analysis research on the web that can be used for different purposes: for example, re-engineering web pages guided by the trending scanpath to improve users' experience or guiding designers to improve their design."
+featured: false
+publication: "*ACM Transactions on the Web*"
+tags: ["Algorithm", "Clustering", "Eye tracking", "Scanpath", "Trend analysis"]
+doi: "10.1145/2970818"
+---
+

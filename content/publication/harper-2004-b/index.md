@@ -1,0 +1,11 @@
+---
+title: "Low cost mark-up for lightweight semantics"
+date: 2004-01-01
+publishDate: 2020-04-22T15:14:20.150941Z
+authors: ["S. Harper", "S. Bechhofer"]
+publication_types: ["1"]
+abstract: "Visually impaired users are hindered in their efforts to access the largest repository of electronic information in the world, namely the World Wide Web (Web). A visually impaired user's information and presentation requirements are different from a sighted user in that they are highly egocentric and non-visual. These requirements can become problems in that the web is visually-centric with regard to presentation and information order / layout, this can (and does) hinder users who need presentation-agnostic access to information. Our objective is to address these problems by creating usable appropriately 'displayed' web pages for use by all users who wish to understand the meaning as opposed to the presentation and order of the information. We assert that the only way to accomplish this is to encode the pages semantic information directly into the page. And the only way this will occur in the real world is if authors have no 'semantic overhead' when creating these pages. In this paper we describe preliminary work towards a system to enable just this kind of semantic encoding so that, in effect, authors get low cost semantics."
+featured: false
+publication: "*CEUR Workshop Proceedings*"
+---
+

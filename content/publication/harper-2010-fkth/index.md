@@ -1,0 +1,14 @@
+---
+title: "Using qualitative eye-tracking data to inform audio presentation of dynamic Web content"
+date: 2010-12-01
+publishDate: 2020-04-22T15:14:20.158914Z
+authors: ["Andy Brown", "Caroline Jay", "Simon Harper"]
+publication_types: ["2"]
+abstract: "Presenting Web content through screen readers can be a challenging task, but this is the only means of access for many blind and visually impaired users. The difficulties are more acute when the information forms part of an interactive process, such as the increasingly common ``Web 2.0 applications''. If the process is to be completed correctly and efficiently it is vital that appropriate information is given to the user at an appropriate time. Designing a non-visual interface that achieves these aims is a non-trivial task, for which several approaches are possible. The one taken here is to use eye-tracking to understand how sighted users interact with the content, and to gain insight into how they benefit from the information, then apply this understanding to design a non-visual user interface. This paper describes how this technique was applied to develop audio interfaces for two common types of interaction---auto-suggest lists and pop-up calendars. Although the resulting interfaces were quite different, one largely mirroring the visual representation and the other not, evaluations showed that the approach was effective, with both audio implementations effective and popular with participants."
+featured: false
+publication: "*New Review of Hypermedia and Multimedia*"
+tags: ["Accessibility", "SASWAT", "Web 2.0", "Web Ergonomics"]
+url_pdf: "http://www.simonharper.info/publications/Harper2010fkth.pdf"
+doi: "http://dx.doi.org/10.1080/13614568.2010.542253"
+---
+

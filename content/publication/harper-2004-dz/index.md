@@ -1,0 +1,14 @@
+---
+title: "Accessible Layout - The Tension Between Accessibility and Visual Design"
+date: 2004-05-01
+publishDate: 2020-04-22T15:14:20.212405Z
+authors: ["Simon Harper", "Yeliz Yesilada", "Carole Goble"]
+publication_types: ["1"]
+abstract: "Layout and structure are key to good visual design. They are the conduit for both the content and the graphics. They are also very important for disabled (e.g. dyslexic users) people and specifically visually impaired users, as they need to be quickly and easily interacted with. This workshop aims to address layout, structure, and presentation from the viewpoint of accessibility and good visual design; where these are in opposition, the workshop aims to facilitate discussion between interested parties so that a solution (or at least the beginners of a solution) can be formulated. We support inclusive design however how can this be the case if users have differing needs? The organisers also assert that no one should be hindered when interacting with layout. Will making layout accessible hinder sighted or 'conventional' users? Conventional workshops on accessibility tend to be single disciplinary in nature. However, we are concerned that this focus on a single participant group prevents the cross-pollination of ideas, needs, and technologies from other related but separate fields. This workshop is decidedly cross disciplinary in nature and brings together users, accessibility experts, graphic designers, and technologists from academia and industry to discuss how accessibility can be supported. We also encourage the participation of users and other interested parties as an additional balance to the discussion. Our aim is to focus on accessibility by encouraging participation from many disciplines. Views often bridge academia, commerce, and industry and arguments encompass a range of beliefs across the design accessibility spectrum. Many people contributed to the success of the program. We would like to thank the programme committee for their exceptional work and dedication in the review process. We would also like to thank the authors for their excellent work and delegates for their participation. It's our sincere hope that the W4A will continue to provide an excellent forum for researchers and practitioners of the accessibility and design communities to exchange ideas and to help grow this community together. We hope you all find this workshop useful, memorable, and above all, good fun!"
+featured: false
+publication: "*W4A '04: Proceedings of the 2004 International Cross-Disciplinary Workshop on Web Accessibility (W4A)*"
+tags: ["Accessibility", "Accessible Layout", "Human Centred Web", "ViCRAM", "Visual Design", "W4A", "W4A-2004", "Web Accessibility"]
+url_pdf: "http://www.simonharper.info/publications/Harper2004dz.pdf"
+doi: "http://dx.doi.org/10.1145/990657"
+---
+

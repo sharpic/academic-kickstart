@@ -1,0 +1,14 @@
+---
+title: "On Heuristic Bias in Fragment-Assembly Methods for Protein Structure Prediction"
+date: 2017-01-01
+publishDate: 2020-04-21T18:15:31.021024Z
+authors: ["Julia Handl", "Mario Garza-Fabre", "Shaun Kandathil", "Simon C. Lovell"]
+publication_types: ["1"]
+abstract: ""
+featured: false
+publication: "*Proceedings of the Genetic and Evolutionary Computation Conference Companion*"
+tags: ["fragment-assembly", "heuristic bias", "protein structure prediction"]
+url_pdf: "https://doi.org/10.1145/3067695.3082545"
+doi: "10.1145/3067695.3082545"
+---
+

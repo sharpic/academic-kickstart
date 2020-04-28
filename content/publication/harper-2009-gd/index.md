@@ -1,0 +1,14 @@
+---
+title: "Guideline aggregation: web accessibility evaluation for older users"
+date: 2009-04-01
+publishDate: 2020-04-22T15:14:20.189167Z
+authors: ["Giorgio Brajnik", "Yeliz Yesilada", "Simon Harper"]
+publication_types: ["1"]
+abstract: "Web site evaluation methodologies and validation engines take the view that all accessibility guidelines must be met to gain compliance. Problems exist in this regard as contradictions within the rule set may arise, and the type of impairment or its severity is not isolated. The Barrier Walkthrough (BW) method goes someway to addressing these issues by enabling barrier types derived from guidelines to be applied to different user categories such as motor or hearing impairment, etc. In this paper, we use set theory to create a validation scheme for older users by combining barrier types specific to motor impaired and low vision users, thereby creating a new \"older users\" category from the results of this set addition. To evaluate this approach, we have conducted a BW study with four pages, 19 expert and 49 non-expert judges. This study shows that the BW generates reliable data for the proposed aggregated user category and shows how experts and non-experts evaluate pages differently. The study also highlights a limitation of the BW by showing that a better aggregated user category would have been created by having a severity level of disability for different impairment types. By extending the BW with these impairment levels, we argue that the BW would become more useful for validating Web pages when dealing with users which multiple disabilities and thus we would be able to create a \"Personalised Validation and Repair\" method."
+featured: false
+publication: "*W4A '09: Proceedings of the 2009 International Cross-Disciplinary Conference on Web Accessibililty (W4A)*"
+tags: ["Accessibility", "Human Centred Web", "Mobile Web", "RIAM", "Web Accessibility"]
+url_pdf: "http://www.simonharper.info/publications/Harper2009gd.pdf"
+doi: "http://dx.doi.org/10.1145/1535654.1535686"
+---
+

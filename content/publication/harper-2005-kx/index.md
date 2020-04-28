@@ -1,0 +1,14 @@
+---
+title: "Engineering Accessible Design"
+date: 2005-05-01
+publishDate: 2020-04-22T15:14:20.212921Z
+authors: ["Simon Harper", "Yeliz Yesilada", "Carole Goble"]
+publication_types: ["1"]
+abstract: "Previous engineering approaches seem to have precluded the engineering of accessible systems. This is plainly unsatisfactory. Designers, authors, and technologist are at present playing 'catch-up' with a continually moving target in an attempt to retrofit systems. In-fact engineering accessible interfaces is as important as their functionality's and should be an indivisible part of the development. We should be engineering accessibility as part of the development and not as afterthought or because government restrictions and civil law requires us to. These proceedings bring together a cross section of the web design and engineering communities. The papers included here report on developments, discuss the issues, and suggest cross-pollinated solutions. Conventional workshops on accessibility tend to be single disciplinary in nature. However, we are concerned that this focus on a single participant group prevents the cross-pollination of ideas, needs, and technologies from other related but separate fields. As with the first, this second workshop is decidedly cross disciplinary in nature and brings together users, accessibility experts, graphic designers, and technologists from academia and industry to discuss how accessibility can be supported. We also encourage the participation of users and other interested parties as an additional balance to the discussion. Our aim is to focus on accessibility by encouraging participation from many disciplines. Views often bridge academia, commerce, and industry and arguments encompass a range of beliefs across the designaccessibility spectrum. Many people contributed to the success of the program. We would like to thank the programme committee for their exceptional work and dedication in the review process. We would also like to thank the authors for their excellent work and delegates for their participation. Finally, we would like to thank our supporters: ACM SIGACCESS; ACM SIGWEB; Continental Airlines; and the Zakon Group. It's our sincere hope that the W4A will continue to provide an excellent forum for researchers and practitioners of the accessibility and design communities to exchange ideas and to help grow this community together. We hope you all find this workshop useful, memorable, and above all, good fun! "
+featured: false
+publication: "*W4A '05: Proceedings of the 2005 International Cross-Disciplinary Workshop on Web Accessibility (W4A)*"
+tags: ["Accessibility", "Accessible Design", "Engineering", "Human Centred Web", "SADIe", "W4A", "W4A-2005", "Web Accessibility"]
+url_pdf: "http://www.simonharper.info/publications/Harper2005kx.pdf"
+doi: "http://dx.doi.org/10.1145/1061811"
+---
+

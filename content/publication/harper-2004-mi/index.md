@@ -1,0 +1,14 @@
+---
+title: "Introduction - Special Issue on Accessible Hypermedia and Multimedia"
+date: 2004-12-01
+publishDate: 2020-04-22T15:14:20.211600Z
+authors: ["Simon Harper", "Yeliz Yesilada", "Carole Goble"]
+publication_types: ["0"]
+abstract: "Layout and structure are key to good visual design. They are the conduit for both the content and the graphics. Being able to easily and quickly interact with the layout and structure is crucial for reading and understanding the content. This is particularly important for disabled people (e.g. visually impaired) as the layout and structure usually hinder them accessing the content rather than helping them easily interact with it. Conventional journals on accessibility tend to be single disciplinary in nature. However, we are concerned that a single disciplinary approach prevents the cross-pollination of ideas, needs, and technologies from other related but separate fields. This special issue is therefore, decidedly cross disciplinary in nature. It brings together a range of papers from the perspectives of users, accessibility experts, graphic designers, and technologists from academia and industry to inform how accessibility can be supported. To strengthen the cross-disciplinary nature of this special issue, we have also solicited the views and thoughts of nine world-renowned researchers all from related but different fields which mainly do not focus on the accessibility domain. We asked for their views on how accessibility affects them or (will) should affect them. Throughout the remainder of this introduction we will relate their thoughts and concerns to material selected for this special issue."
+featured: false
+publication: "*New Review of Hypermedia and Multimedia*"
+tags: ["Accessibility", "Accessible Layout", "Human Centred Web", "ViCRAM", "Visual Design", "W4A", "W4A-2004", "Web Accessibility"]
+url_pdf: "http://www.simonharper.info/publications/Harper2004mi.pdf"
+doi: "http://dx.doi.org/10.1080/13614560412331325271"
+---
+
